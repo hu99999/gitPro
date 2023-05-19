@@ -1,0 +1,7 @@
+server:
+  port: 80
+datesource:
+  driver: com.mysql.cj.jdbc.driver
+  url: jdbc:mysql://localhost/springbootdb
+  username: root
+  password: root
